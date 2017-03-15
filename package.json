@@ -1,0 +1,16 @@
+{
+  "name": "node-lombard",
+  "version": "0.2.5",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "*"
+  },
+  "license": "MIT"
+}
